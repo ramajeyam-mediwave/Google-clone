@@ -9,3 +9,5 @@
 ## adding styles to the page
 
 ## make padding
+
+## added buttons to the page
